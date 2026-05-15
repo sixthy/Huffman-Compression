@@ -1,0 +1,1 @@
+Sim, você pode integrar todos os prints de debug diretamente no main.py. Modifiquei o código para incluir as saídas detalhadas (comprimento do input, início do texto, chaves da tabela de frequência, símbolo da raiz, chaves da tabela de códigos, comprimento e início do encoded) diretamente na função 
